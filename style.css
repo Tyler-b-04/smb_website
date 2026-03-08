@@ -105,3 +105,11 @@ main {
 .update-section button:hover {
   background-color: #ff8c00;
 }
+
+footer {
+  background-color: #444;
+  color: white;
+
+  text-align: center;
+  padding: 15px;
+}
