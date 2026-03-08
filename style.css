@@ -4,3 +4,14 @@ body {
   color: #333;
   line-height: 1.6;
 }
+
+header {
+  background-color: #444;
+  color: white;
+  padding: 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
